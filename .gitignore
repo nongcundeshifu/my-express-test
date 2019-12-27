@@ -30,4 +30,3 @@ out
 */dist/*
 *.history
 *.apk
-*package-lock.json
